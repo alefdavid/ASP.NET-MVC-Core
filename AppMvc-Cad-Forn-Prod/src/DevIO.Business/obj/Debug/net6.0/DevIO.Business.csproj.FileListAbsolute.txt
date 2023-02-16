@@ -1,0 +1,24 @@
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\alefd\Downloads\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppMvcComp\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\alefd\OneDrive\Documentos\3. Desemvolvedor.io\AppMvc-Cad-Forn-Prod\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
