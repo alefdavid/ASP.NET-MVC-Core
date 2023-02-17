@@ -7,4 +7,4 @@
 - _View Component_
 - _Injeção de Dependência_
 
-Utilizando .NET Framework e Entity Framework na versão 6
+Utilizando .NET na versão 6
